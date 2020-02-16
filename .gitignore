@@ -1,0 +1,14 @@
+.DS_Store
+build
+# *.aux
+# *.bbl
+# *.bcf
+# *.dvi
+# *.fls
+# *.idx
+# *.ind
+# *.lof
+# *.lot
+# *.out
+# *.synctex.gz
+# *.toc
